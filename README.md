@@ -27,7 +27,7 @@
 | general | `serverinfo`, `ping`, `feedback`, `uptime`, `userinfo` |
 | fun | `randomfact`, `coinflip`, `rps`, `8ball`, `minesweeper` |
 | moderation | `kick`, `ban`, `softban`, `nick`, `purge`, `hackban`, `warnings`, `archive`, `timeout` |
-| sidestore | `help`, `refresh`, `code`, `crash`, `pairing`, `server`, `half`, `sparse`, `afc`, `udid`, `sidestore` |
+| sidestore | `help`, `refresh`, `code`, `crash`, `pairing`, `server`, `half`, `sparse`, `afc`, `udid`, `support` |
 | idevice | `help`, `noapps`, `errorcode`, `developermode`, `mountddi`, `support` |
 | melonx | `help`, `transfer`, `mods`, `gamecrash`, `requirements`, `error`, `26`, `legal` |
 | events | `baitbot`, `stickybot` |
